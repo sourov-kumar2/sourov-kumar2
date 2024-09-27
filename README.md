@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm sourov kumar</h1>
 <h3 align="center">A passionate computer science student from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b9f0623b-ca98-47e7-9917-d87054783946)
-">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourov-kumar2&label=Profile%20views&color=0e75b6&style=flat" alt="sourov-kumar2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourov-kumar2" alt="sourov-kumar2" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3H_eq6HtTKcFMi8HththJa&ust=1727535696152000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjlzJmy44gDFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on [sales management system](https://sathitelecombd.rf.gd/?i)
 
